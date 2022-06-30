@@ -1,0 +1,87 @@
+1) x = 17925
+print(34**2)
+print(26*3)
+print(17*3)
+print(4394*4)
+
+
+2) a = 25
+b = 15
+c = 30
+print(a>b)
+
+print((7%-3)*4.8)
+
+3)  
+a = 350
+b = 200
+c = 1000
+
+x = a + b
+z = x * c
+k = z - 193432
+
+print(x, z, k)
+
+
+4)
+a = (17*3)
+b = (12*5)
+
+d = (12**3)
+e = (13*7)
+
+f = (4**5)
+g = (512+512)
+print(a,b,d,e,f,g)
+
+print(a>b,d>e,f>g)
+
+
+5)
+a = -21//10
+print(a)
+
+
+#6 zadanie
+#(a/b)*100
+#a = 27
+#b = 80
+
+#print((a/b)*100)
+
+#7 zadanie
+#a = 1994
+#x = b-a
+#print(x+2, x-2)
+
+#8 zadanie
+#a = 25+75+10+95
+#print(a/4)
+
+
+#9 zadanie
+#a = 2.5
+#c = 2.5
+#x = a+b
+#print(x*3)
+
+
+
+#9 zadanie
+a = 12
+b = 13
+c = 17.3
+d = 255
+e = 3659
+
+
+#10 zadanie
+#(a-e**(b/d))%c
+a = 350
+b = 200
+c = 100
+d = 50
+e = 100
+
+print((a-e**(b/d))%c)

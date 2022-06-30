@@ -1,0 +1,49 @@
+1)
+a = 2**3
+b = 3**2
+if a>b:
+  print("A bolwe")
+else: 
+  if b>a:
+    print("B bolwe")
+
+2)
+a = 555
+b = 255
+c = 355
+if a>b:
+  print('555 больше чем 255')
+elif b>c:
+    print('255 больше чем 355')
+elif a>c:
+      print('355 больше чем 555 ')
+
+3)
+a = 17391%17
+b = 546%17
+c = 934%17
+print(a)
+print(b)
+print(c)
+if a<b:
+  print('а меньше b')
+elif b<c:
+  print('b меньше c')
+elif a<c:
+  print('a меньше c')
+
+4)
+x = 13**2
+print(x)
+if x == 172:
+  print('x=172')
+elif x < 172:
+  x = x**2
+  print(x)
+  print(x > 172)
+
+9)
+a = 10//5
+b = 10/5
+if a==b:
+  print(a, b)

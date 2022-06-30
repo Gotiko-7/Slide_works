@@ -1,0 +1,42 @@
+dlina=int(input())
+shirina=int(input())
+print('Периметр прямоугольника', dlina+shirina)
+print ('Площадь прмоугольника',dlina*shirina)
+
+
+1) a = 123
+b ='Sun'
+print (a,b)
+
+2) a = 123
+b = a+a+a
+print(b)
+
+3) a = 'Anara'
+b = 'Mamashova'
+print(a,b)
+
+
+4) a = (24+40/2-4)
+print (24+40/2-4)
+
+
+5) a = 5
+b = 7
+print (5<=7)
+
+6) a = 10
+a = 26
+print(a)
+
+7) a = 100
+b = 100/10
+c = b+50
+print (a/b+c)
+
+8) 
+a = int(input())
+b = int(input())
+c = int(input())
+d = b**2 - 4**a*c
+print(d)
